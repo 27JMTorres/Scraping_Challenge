@@ -1,0 +1,8 @@
+.DS_Store
+
+# Java/Maven build output
+**/target/
+
+# IDE metadata
+**/.idea/
+*.iml
